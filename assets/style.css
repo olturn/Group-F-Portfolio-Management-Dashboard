@@ -1,0 +1,38 @@
+div.rounded-box {
+    border: 2px solid #808080; /* Solid border with a light grey color */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Padding inside the box */
+    margin-bottom: 20px; /* Margin at the bottom of each box */
+    margin-left: 20px; /* Margin at the left of each box */
+    margin-right: 20px; /* Margin at the right of each box */
+    background-color: #FFFFFF; /* Light background color for the box */
+}
+
+/* styles.css */
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    font-family: 'sans-serif';
+}
+
+.nav-link {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+    padding: 5px;
+    font-family: 'Roboto';
+}
+
+.nav-link:hover {
+    color: #00CC96;
+    cursor: pointer;
+}
+
+.nav-divider {
+    color: white;
+    padding: 0 10px;
+}
+
+.Select-menu-outer, .Select-value, .Select-placeholder {
+    color: black !important;
+}
